@@ -1,5 +1,5 @@
 ### Test Suite Name
-Suite1
+スイート1
 
 ### Test Suite Description
 日本語の説明
